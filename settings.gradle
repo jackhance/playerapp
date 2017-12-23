@@ -1,0 +1,2 @@
+include ':app', ':vitamio', ':vitamio-sample', ':xutils', ':xUtils3_sample', 'AgoraDemo', ':EventBus', ':jcvideoplayer-lib'
+include ':xListView'
